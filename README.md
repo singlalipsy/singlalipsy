@@ -1,6 +1,8 @@
 ### Hello! 👋 I am Lipsy -> Tech Enthusiast | Software Developer
 
-I strongly believe that everything happens for a reason!!
+-- ⚡⚡  I strongly believe that everything happens for a reason!!
+
+-- 🔭 🔭 A Java Professional with 6 years of industry experience and capability of developing complex technical solutions. Possess leadership ability and commitment to implement time sensitive projects.
 
 <!--
 
