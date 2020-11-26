@@ -1,4 +1,4 @@
-### Hello! 👋 I am Lipsy -> Tech Enthusiast | Software Developer | 
+### Hello! 👋 I am Lipsy -> Tech Enthusiast | Software Developer
 
 I strongly believe that everything happens for a reason!!
 
