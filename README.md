@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hello! 👋 I am Lipsy -> Tech Enthusiast | Software Developer | 
+
+I strongly believe that everything happens for a reason!!
 
 <!--
-**singlalipsy/singlalipsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
